@@ -1,0 +1,6 @@
+°	Limpiar datos inutiles ( vacios o sin relevancia)
+°	Crear dataset depurado.
+°	Analisis de  hipotesis univariadas y bivariadas.
+°	Encoding de datos
+°	Herramientas de visualizacion de estadisticas.
+
